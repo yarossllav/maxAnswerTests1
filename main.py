@@ -26,3 +26,5 @@ tips = 10
 pipel = 3
 d = n * tips
 print(d/pipel)
+
+#hello
